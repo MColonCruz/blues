@@ -1,0 +1,57 @@
+#background {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.container {
+    position: relative;
+}
+
+.title h1 {
+    max-width: 450px;
+    margin: 0 auto;
+    font-size: 3em;
+    text-align: center;
+    color: #000000;
+    padding-top: 1rem;
+    
+}
+
+.title h2 {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: .5;
+    font-style: italic;
+}
+
+.caption {
+    text-align: right;
+    font-style: italic;
+    margin: 0;
+}
+
+.section {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.section2 {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-top: 2px;
+}
+
+.second {
+    display: none;
+}
+
+.audio {
+    max-width: 380px;
+    margin: 0 auto;
+    text-align: center;
+    font-style: italic;
+    padding-top: 2rem;
+}
